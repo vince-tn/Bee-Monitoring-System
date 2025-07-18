@@ -5,7 +5,7 @@ Monitors two beehives' entry and exit activity using 8 IR sensors via Arduino Me
 
 
 [Schematic diagram of the system]
-\n \n \n
+
 
 
 
