@@ -20,7 +20,7 @@ The python program should automatically save a CSV file named "bee_log.csv" cont
 
 
 
-<img width="800" height="1200" alt="Picture1" src="https://github.com/user-attachments/assets/1b31dcf0-6952-4828-9c57-f5f7e15928a8" />
+<img width="400" height="800" alt="Picture1" src="https://github.com/user-attachments/assets/1b31dcf0-6952-4828-9c57-f5f7e15928a8" />
 
 
 [System diagram with an off-grid power source]
