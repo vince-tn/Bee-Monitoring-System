@@ -1,3 +1,2 @@
 *.ino linguist-language=C++
-*.py linguist-detectable=true
-*.py linguist-vendored
+*.py linguist-language=Python
